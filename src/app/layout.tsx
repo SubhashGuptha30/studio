@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'NeuroVision',
+  title: 'BioVision',
   description: 'AI-Powered Web Application for 3D Visualization and Tumor Detection in Brain CT Scans',
 };
 
